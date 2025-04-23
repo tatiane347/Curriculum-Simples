@@ -16,3 +16,6 @@ Por que este projeto?
 [Seu LinkedIn 👩‍💻 https://www.linkedin.com/in/tatiane-nascimento-68b0622bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 [Seu Github (opcional)] 
 
+
+![1745422913312226982031048796244](https://github.com/user-attachments/assets/19200e7f-37f5-48ce-9e8f-92f917650879)
+
