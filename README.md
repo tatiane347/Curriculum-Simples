@@ -1,4 +1,4 @@
-Meu Currículo Web Simples: HTML, CSS e JavaScript Descomplicados! 🚀
+⁷Meu Currículo Web Simples: HTML, CSS e JavaScript Descomplicados! 🚀
 Olá, devs! 👋
 Compartilho com vocês este pequeno projeto: um currículo web minimalista construído com as bases do desenvolvimento front-end: HTML, CSS e JavaScript. O objetivo principal aqui foi criar algo simples, direto ao ponto e fácil de personalizar, ideal para quem está começando ou precisa de um portfólio rápido e eficiente.
 Como foi construído?
@@ -14,7 +14,7 @@ Por que este projeto?
 💼 Desenvolvedor Frontend:
 [TatianeNascimento]
 [Seu LinkedIn 👩‍💻 https://www.linkedin.com/in/tatiane-nascimento-68b0622bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-[Seu Github (opcional)] 
+[Seu Github (opcional)] https://github.com/tatiane347/Curriculum-Simples
 
 
 ![1745422913312226982031048796244](https://github.com/user-attachments/assets/19200e7f-37f5-48ce-9e8f-92f917650879)
